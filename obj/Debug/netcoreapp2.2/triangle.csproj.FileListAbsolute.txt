@@ -1,0 +1,11 @@
+C:\Users\cronk\desktop\C-triangle-tracker\obj\Debug\netcoreapp2.2\triangle.csprojAssemblyReference.cache
+C:\Users\cronk\desktop\C-triangle-tracker\obj\Debug\netcoreapp2.2\triangle.csproj.CoreCompileInputs.cache
+C:\Users\cronk\desktop\C-triangle-tracker\obj\Debug\netcoreapp2.2\triangle.AssemblyInfoInputs.cache
+C:\Users\cronk\desktop\C-triangle-tracker\obj\Debug\netcoreapp2.2\triangle.AssemblyInfo.cs
+C:\Users\cronk\desktop\C-triangle-tracker\bin\Debug\netcoreapp2.2\triangle.deps.json
+C:\Users\cronk\desktop\C-triangle-tracker\bin\Debug\netcoreapp2.2\triangle.runtimeconfig.json
+C:\Users\cronk\desktop\C-triangle-tracker\bin\Debug\netcoreapp2.2\triangle.runtimeconfig.dev.json
+C:\Users\cronk\desktop\C-triangle-tracker\bin\Debug\netcoreapp2.2\triangle.dll
+C:\Users\cronk\desktop\C-triangle-tracker\bin\Debug\netcoreapp2.2\triangle.pdb
+C:\Users\cronk\desktop\C-triangle-tracker\obj\Debug\netcoreapp2.2\triangle.dll
+C:\Users\cronk\desktop\C-triangle-tracker\obj\Debug\netcoreapp2.2\triangle.pdb
